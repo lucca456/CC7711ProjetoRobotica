@@ -6,6 +6,6 @@ maximizedDockId: -1
 centralWidgetVisible: 1
 orthographicViewHeight: 1
 textFiles: 0 "controllers/e-puck_avoid_obstacles/e-puck_avoid_obstacles.c"
-globalOptionalRendering: DistanceSensorRays::CoordinateSystem::LightSensorRays
+globalOptionalRendering: DistanceSensorRays::CoordinateSystem
 consoles: Console:All:All
 renderingDevicePerspectives: e-puck:camera;1;1;0;0
